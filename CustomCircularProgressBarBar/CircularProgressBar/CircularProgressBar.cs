@@ -5,6 +5,7 @@ using Android.Runtime;
 using Android.Util;
 using Android.Views;
 
+
 namespace CustomCircularProgressBarBar
 {
     public class CircularProgressBar : View
